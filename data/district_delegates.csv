@@ -1,0 +1,505 @@
+﻿state,district,primary_type,delegates,clinton_2016,sanders_2016
+Alabama,At-large,Primary,18,309663,76308
+Alabama,CD01,Primary,5,40894,9436
+Alabama,CD02,Primary,5,40867,7577
+Alabama,CD03,Primary,4,39719,8834
+Alabama,CD04,Primary,3,20974,8317
+Alabama,CD05,Primary,5,32094,8317
+Alabama,CD06,Primary,4,27396,12097
+Alabama,CD07,Primary,8,107719,16541
+Alaska,At-large,Primary,15,2146,8447
+American Samoa,At-large,Caucus,6,162,61
+Arkansas,At-large,Primary,11,145713,65997
+Arkansas,CD01,Primary,4,34549,13184
+Arkansas,CD02,Primary,6,48494,17765
+Arkansas,CD03,Primary,5,23299,19011
+Arkansas,CD04,Primary,5,39371,16037
+Arizona,At-large,Primary,23,262459,192962
+Arizona,CD01,Primary,5,35445,26267
+Arizona,CD02,Primary,6,42797,33891
+Arizona,CD03,Primary,5,30298,20091
+Arizona,CD04,Primary,3,20662,15289
+Arizona,CD05,Primary,5,22973,16982
+Arizona,CD06,Primary,5,29266,20259
+Arizona,CD07,Primary,4,24245,17173
+Arizona,CD08,Primary,5,27672,17651
+Arizona,CD09,Primary,6,29101,25359
+California,At-large,Primary,144,2745302,2381722
+California,CD01,Primary,4,37008,53669
+California,CD02,Primary,6,83241,95515
+California,CD03,Primary,5,45320,42836
+California,CD04,Primary,5,48187,44931
+California,CD05,Primary,6,71427,68328
+California,CD06,Primary,5,57334,47272
+California,CD07,Primary,5,53082,42372
+California,CD08,Primary,4,27046,23931
+California,CD09,Primary,5,42806,31856
+California,CD10,Primary,4,34589,30440
+California,CD11,Primary,6,74414,55753
+California,CD12,Primary,7,104246,89396
+California,CD13,Primary,7,97164,100203
+California,CD14,Primary,6,75605,55898
+California,CD15,Primary,6,60137,46979
+California,CD16,Primary,4,30493,24292
+California,CD17,Primary,5,53764,41358
+California,CD18,Primary,6,84088,59966
+California,CD19,Primary,6,56965,43566
+California,CD20,Primary,5,57858,64055
+California,CD21,Primary,4,21948,14509
+California,CD22,Primary,4,31672,25265
+California,CD23,Primary,4,25728,22523
+California,CD24,Primary,5,54391,61265
+California,CD25,Primary,5,37299,34100
+California,CD26,Primary,5,53738,49117
+California,CD27,Primary,5,55671,44339
+California,CD28,Primary,6,65975,65908
+California,CD29,Primary,5,45070,42229
+California,CD30,Primary,6,68804,56451
+California,CD31,Primary,5,37621,29287
+California,CD32,Primary,5,43948,34514
+California,CD33,Primary,6,81343,58517
+California,CD34,Primary,5,45763,49121
+California,CD35,Primary,4,34613,29203
+California,CD36,Primary,4,44450,26812
+California,CD37,Primary,6,85616,58815
+California,CD38,Primary,5,49946,40298
+California,CD39,Primary,5,38804,33529
+California,CD40,Primary,5,39418,35132
+California,CD41,Primary,5,34462,29919
+California,CD42,Primary,5,30433,25938
+California,CD43,Primary,5,62128,40727
+California,CD44,Primary,5,52921,38450
+California,CD45,Primary,5,44609,39072
+California,CD46,Primary,4,33214,34347
+California,CD47,Primary,5,48201,45024
+California,CD48,Primary,5,44388,38291
+California,CD49,Primary,5,47105,42341
+California,CD50,Primary,4,32311,33157
+California,CD51,Primary,5,41362,34438
+California,CD52,Primary,6,57483,49685
+California,CD53,Primary,6,60084,56783
+Colorado,At-large,Primary,23,49789,72846
+Colorado,CD01,Primary,9,13242,16232
+Colorado,CD02,Primary,9,11248,19376
+Colorado,CD03,Primary,5,5715,8956
+Colorado,CD04,Primary,5,3945,6115
+Colorado,CD05,Primary,4,3977,6338
+Colorado,CD06,Primary,6,6161,6675
+Colorado,CD07,Primary,6,5501,9154
+Connecticut,At-large,Primary,20,170045,152379
+Connecticut,CD01,Primary,9,40115,33202
+Connecticut,CD02,Primary,8,27384,36009
+Connecticut,CD03,Primary,9,36883,33162
+Connecticut,CD04,Primary,7,38761,22750
+Connecticut,CD05,Primary,7,26902,27256
+Delaware,At-large,Primary,7,55954,36662
+Delaware,New Castle County,Primary,8,38584,25741
+Delaware,Kent County,Primary,3,7338,4980
+Delaware,Sussex County,Primary,3,10032,5941
+Democrats Abroad,At-large,Primary,13,10689,23779
+District of Columbia,At-large,Primary,7,76704,20361
+District of Columbia,MD01,Primary,7,35077,9727
+District of Columbia,MD02,Primary,6,41627,10634
+Florida,At-large,Primary,76,1101414,568839
+Florida,CD01,Primary,3,26987,18497
+Florida,CD02,Primary,4,50190,34073
+Florida,CD03,Primary,5,32070,27974
+Florida,CD04,Primary,6,33920,22765
+Florida,CD05,Primary,5,55855,18639
+Florida,CD06,Primary,5,37995,24443
+Florida,CD07,Primary,6,37410,26795
+Florida,CD08,Primary,5,39384,24376
+Florida,CD09,Primary,6,40609,19880
+Florida,CD10,Primary,6,38011,22213
+Florida,CD11,Primary,4,38061,21590
+Florida,CD12,Primary,5,35498,23172
+Florida,CD13,Primary,6,44121,29707
+Florida,CD14,Primary,6,49146,23617
+Florida,CD15,Primary,5,32793,20712
+Florida,CD16,Primary,6,43921,25856
+Florida,CD17,Primary,4,29899,17045
+Florida,CD18,Primary,5,42804,20620
+Florida,CD19,Primary,5,31958,17235
+Florida,CD20,Primary,7,61998,15761
+Florida,CD21,Primary,7,57723,22100
+Florida,CD22,Primary,7,49602,22209
+Florida,CD23,Primary,6,44510,19974
+Florida,CD24,Primary,6,59274,13893
+Florida,CD25,Primary,3,24897,9287
+Florida,CD26,Primary,5,32069,14148
+Florida,CD27,Primary,5,30709,12258
+Georgia,At-large,Primary,37,545674,215797
+Georgia,CD01,Primary,5,32408,12343
+Georgia,CD02,Primary,5,4875,8817
+Georgia,CD03,Primary,4,30311,11691
+Georgia,CD04,Primary,7,73739,23827
+Georgia,CD05,Primary,7,81636,32474
+Georgia,CD06,Primary,5,34287,22632
+Georgia,CD07,Primary,5,27483,15461
+Georgia,CD08,Primary,4,27632,8539
+Georgia,CD09,Primary,4,14263,9727
+Georgia,CD10,Primary,4,33303,15274
+Georgia,CD11,Primary,5,26137,17511
+Georgia,CD12,Primary,4,33308,9361
+Georgia,CD13,Primary,6,68652,19128
+Georgia,CD14,Primary,3,13810,9012
+Guam,At-large,Caucus,7,777,528
+Hawaii,At-large,Primary,9,10126,23521
+Hawaii,CD01,Primary,8,5001,8086
+Hawaii,CD02,Primary,7,5125,15435
+Idaho,At-large,Primary,7,5065,18640
+Idaho,CD01,Primary,6,2319,8454
+Idaho,CD02,Primary,7,2746,10186
+Illinois,At-large,Primary,54,1045280,1007326
+Illinois,CD01,Primary,8,114686,75854
+Illinois,CD02,Primary,7,106450,65336
+Illinois,CD03,Primary,6,57777,69075
+Illinois,CD04,Primary,5,56514,78625
+Illinois,CD05,Primary,7,77319,82876
+Illinois,CD06,Primary,6,43455,49360
+Illinois,CD07,Primary,8,117457,73790
+Illinois,CD08,Primary,5,40803,45637
+Illinois,CD09,Primary,8,83547,77828
+Illinois,CD10,Primary,5,56133,45314
+Illinois,CD11,Primary,5,45254,49577
+Illinois,CD12,Primary,5,46824,43003
+Illinois,CD13,Primary,5,37602,54194
+Illinois,CD14,Primary,5,33878,47270
+Illinois,CD15,Primary,3,23641,28588
+Illinois,CD16,Primary,4,30060,42011
+Illinois,CD17,Primary,5,45709,45676
+Illinois,CD18,Primary,4,28171,33312
+Indiana,At-large,Primary,27,303705,335074
+Indiana,CD01,Primary,8,56312,50276
+Indiana,CD02,Primary,5,28092,34029
+Indiana,CD03,Primary,5,23970,27102
+Indiana,CD04,Primary,5,22358,31061
+Indiana,CD05,Primary,7,40171,42842
+Indiana,CD06,Primary,6,25457,29202
+Indiana,CD07,Primary,7,43229,42808
+Indiana,CD08,Primary,6,32313,37568
+Indiana,CD09,Primary,6,31803,40186
+Iowa,At-large,Caucus,14,69733,69452
+Iowa,CD01,Caucus,7,19029,19596
+Iowa,CD02,Caucus,7,17635,19328
+Iowa,CD03,Caucus,8,18829,16296
+Iowa,CD04,Caucus,5,14240,14232
+Kansas,At-large,Primary,13,12593,26429
+Kansas,CD01,Primary,5,1833,4074
+Kansas,CD02,Primary,7,3225,8117
+Kansas,CD03,Primary,8,4689,7671
+Kansas,CD04,Primary,6,2846,6567
+Kentucky,At-large,Primary,18,210294,209423
+Kentucky,CD01,Primary,5,29189,34871
+Kentucky,CD02,Primary,5,31368,33803
+Kentucky,CD03,Primary,9,60943,43288
+Kentucky,CD04,Primary,6,26053,25923
+Kentucky,CD05,Primary,4,19071,28383
+Kentucky,CD06,Primary,7,43670,43155
+Louisiana,At-large,Primary,19,221733,72277
+Louisiana,CD01,Primary,4,21474,13184
+Louisiana,CD02,Primary,8,75308,17879
+Louisiana,CD03,Primary,6,22382,10502
+Louisiana,CD04,Primary,6,34656,9602
+Louisiana,CD05,Primary,6,33642,8687
+Louisiana,CD06,Primary,5,34271,12423
+Maine,At-large,Primary,8,1217,2203
+Maine,CD01,Primary,9,693,1228
+Maine,CD02,Primary,7,524,975
+Maryland,At-large,Primary,31,573242,309990
+Maryland,CD01,Primary,7,36609,29676
+Maryland,CD02,Primary,7,63200,39321
+Maryland,CD03,Primary,8,73337,48139
+Maryland,CD04,Primary,9,85418,31345
+Maryland,CD05,Primary,9,77572,35321
+Maryland,CD06,Primary,7,52623,34175
+Maryland,CD07,Primary,9,97802,46922
+Maryland,CD08,Primary,9,86681,45091
+Massachusetts,At-large,Primary,32,606822,589803
+Massachusetts,CD01,Primary,6,56703,61487
+Massachusetts,CD02,Primary,6,51612,71412
+Massachusetts,CD03,Primary,6,60759,61732
+Massachusetts,CD04,Primary,6,71441,59186
+Massachusetts,CD05,Primary,8,88402,73702
+Massachusetts,CD06,Primary,6,63924,69246
+Massachusetts,CD07,Primary,8,79838,62162
+Massachusetts,CD08,Primary,7,73171,67002
+Massachusetts,CD09,Primary,6,60972,63874
+Michigan,At-large,Primary,43,576099,598167
+Michigan,CD01,Primary,5,28860,44359
+Michigan,CD02,Primary,5,26090,39834
+Michigan,CD03,Primary,5,28441,45282
+Michigan,CD04,Primary,4,24928,35597
+Michigan,CD05,Primary,6,48622,42755
+Michigan,CD06,Primary,5,28265,39157
+Michigan,CD07,Primary,5,29186,36019
+Michigan,CD08,Primary,6,35205,46969
+Michigan,CD09,Primary,7,48570,50903
+Michigan,CD10,Primary,4,28314,33710
+Michigan,CD11,Primary,7,39732,45054
+Michigan,CD12,Primary,7,50157,58892
+Michigan,CD13,Primary,7,71235,37028
+Michigan,CD14,Primary,9,88494,42608
+Minnesota,At-large,Primary,26,78381,126229
+Minnesota,CD01,Primary,5,5488,10896
+Minnesota,CD02,Primary,6,8538,11913
+Minnesota,CD03,Primary,7,11154,12636
+Minnesota,CD04,Primary,8,14913,21141
+Minnesota,CD05,Primary,10,22341,41161
+Minnesota,CD06,Primary,4,5321,8840
+Minnesota,CD07,Primary,4,4050,6955
+Minnesota,CD08,Primary,5,6576,12687
+Mississippi,At-large,Primary,13,187335,37742
+Mississippi,CD01,Primary,5,34271,8981
+Mississippi,CD02,Primary,9,82221,12465
+Mississippi,CD03,Primary,5,43832,8155
+Mississippi,CD04,Primary,4,27011,8141
+Missouri,At-large,Primary,24,312285,310711
+Missouri,CD01,Primary,8,86389,60183
+Missouri,CD02,Primary,6,46834,49705
+Missouri,CD03,Primary,5,29021,35735
+Missouri,CD04,Primary,5,26493,33726
+Missouri,CD05,Primary,6,52169,46473
+Missouri,CD06,Primary,5,28799,32170
+Missouri,CD07,Primary,5,21593,31417
+Missouri,CD08,Primary,4,20987,21302
+Montana,At-large,Primary,6,55805,65156
+Montana,Western,Primary,7,29510,37319
+Montana,Eastern,Primary,6,26295,27837
+Nebraska,At-large,Primary,9,14340,19120
+Nebraska,CD01,Primary,7,5658,8457
+Nebraska,CD02,Primary,9,6053,7338
+Nebraska,CD03,Primary,4,2629,3325
+Nevada,At-large,Caucus,13,6313,5672
+Nevada,CD01,Caucus,5,1603,1424
+Nevada,CD02,Caucus,6,1303,1551
+Nevada,CD03,Caucus,6,1535,1378
+Nevada,CD04,Caucus,6,1872,1319
+New Hampshire,At-large,Primary,8,95355,152193
+New Hampshire,CD01,Primary,8,49641,74891
+New Hampshire,CD02,Primary,8,45714,77302
+New Jersey,At-large,Primary,42,566247,328058
+New Jersey,DD1,Primary,4,21010,13501
+New Jersey,DD2,Primary,4,28282,19605
+New Jersey,DD3,Primary,5,37894,23990
+New Jersey,DD4,Primary,5,33095,19246
+New Jersey,DD5,Primary,4,16986,14871
+New Jersey,DD6,Primary,4,23353,15845
+New Jersey,DD7,Primary,4,15661,12436
+New Jersey,DD8,Primary,4,33922,17589
+New Jersey,DD9,Primary,4,29158,17429
+New Jersey,DD10,Primary,4,25934,17482
+New Jersey,DD11,Primary,4,34308,15116
+New Jersey,DD12,Primary,5,34874,17535
+New Jersey,DD13,Primary,4,14613,15417
+New Jersey,DD14,Primary,4,21306,15756
+New Jersey,DD15,Primary,4,38822,13082
+New Jersey,DD16,Primary,5,35936,18317
+New Jersey,DD17,Primary,4,27397,15214
+New Jersey,DD18,Primary,4,38946,14404
+New Jersey,DD19,Primary,4,32794,16595
+New Jersey,DD20,Primary,4,21956,14628
+New Mexico,At-large,Primary,11,111000,104354
+New Mexico,CD01,Primary,8,38768,39865
+New Mexico,CD02,Primary,6,25360,21925
+New Mexico,CD03,Primary,9,46872,42564
+New York,At-large,Primary,90,1133980,820256
+New York,CD01,Primary,6,23862,21765
+New York,CD02,Primary,6,23390,19076
+New York,CD03,Primary,6,40214,24648
+New York,CD04,Primary,6,41210,24965
+New York,CD05,Primary,8,61821,24568
+New York,CD06,Primary,8,32957,24139
+New York,CD07,Primary,9,47996,36828
+New York,CD08,Primary,9,61848,35925
+New York,CD09,Primary,9,67038,38504
+New York,CD10,Primary,9,71998,36877
+New York,CD11,Primary,6,25172,23634
+New York,CD12,Primary,8,74188,434610
+New York,CD13,Primary,9,70844,41710
+New York,CD14,Primary,8,36907,26641
+New York,CD15,Primary,9,52389,20797
+New York,CD16,Primary,8,65694,28161
+New York,CD17,Primary,6,49006,28162
+New York,CD18,Primary,6,29353,25773
+New York,CD19,Primary,6,24621,35022
+New York,CD20,Primary,7,36181,40891
+New York,CD21,Primary,5,16690,27843
+New York,CD22,Primary,5,21234,27069
+New York,CD23,Primary,5,22479,29980
+New York,CD24,Primary,5,28222,26673
+New York,CD25,Primary,5,38362,35240
+New York,CD26,Primary,5,46434,42234
+New York,CD27,Primary,5,23870,29521
+North Carolina,At-large,Primary,38,513080,387625
+North Carolina,CD01,Primary,8,59234,27666
+North Carolina,CD02,Primary,6,31668,24473
+North Carolina,CD03,Primary,4,28271,22920
+North Carolina,CD04,Primary,9,47995,36966
+North Carolina,CD05,Primary,5,35542,32081
+North Carolina,CD06,Primary,5,41143,35268
+North Carolina,CD07,Primary,5,42410,28851
+North Carolina,CD08,Primary,4,28325,20612
+North Carolina,CD09,Primary,5,42174,30951
+North Carolina,CD10,Primary,4,29018,29093
+North Carolina,CD11,Primary,4,29462,34785
+North Carolina,CD12,Primary,8,57817,31610
+North Carolina,CD13,Primary,5,40021,32349
+North Dakota,At-large,Primary,14,101,253
+Northern Marianas,At-large,Caucus,6,102,65
+Ohio,At-large,Primary,47,696681,535394
+Ohio,CD01,Primary,6,42600,29747
+Ohio,CD02,Primary,5,38937,30524
+Ohio,CD03,Primary,7,53478,37318
+Ohio,CD04,Primary,4,29156,25686
+Ohio,CD05,Primary,5,32050,32259
+Ohio,CD06,Primary,3,32572,27343
+Ohio,CD07,Primary,4,32615,27054
+Ohio,CD08,Primary,4,26481,21899
+Ohio,CD09,Primary,6,55253,42004
+Ohio,CD10,Primary,6,41589,31046
+Ohio,CD11,Primary,9,90224,42314
+Ohio,CD12,Primary,6,40356,36684
+Ohio,CD13,Primary,6,57714,46593
+Ohio,CD14,Primary,6,43621,33949
+Ohio,CD15,Primary,6,38163,36878
+Ohio,CD16,Primary,6,41872,34096
+Oklahoma,At-large,Primary,13,139443,174228
+Oklahoma,CD01,Primary,5,30217,32290
+Oklahoma,CD02,Primary,4,26450,37701
+Oklahoma,CD03,Primary,4,22088,31018
+Oklahoma,CD04,Primary,5,26008,39262
+Oklahoma,CD05,Primary,6,34680,33957
+Oregon,At-large,Primary,20,263913,348259
+Oregon,CD01,Primary,9,56507,65854
+Oregon,CD02,Primary,6,36361,44055
+Oregon,CD03,Primary,10,72032,107319
+Oregon,CD04,Primary,8,49663,74994
+Oregon,CD05,Primary,8,49350,56037
+Pennsylvania,At-large,Primary,61,935107,731881
+Pennsylvania,CD01,Primary,8,83841,55069
+Pennsylvania,CD02,Primary,7,131612,68279
+Pennsylvania,CD03,Primary,12,39622,33646
+Pennsylvania,CD04,Primary,10,34650,30959
+Pennsylvania,CD05,Primary,10,32086,35069
+Pennsylvania,CD06,Primary,6,43892,38908
+Pennsylvania,CD07,Primary,6,48345,35808
+Pennsylvania,CD08,Primary,6,51110,40280
+Pennsylvania,CD09,Primary,6,32624,28180
+Pennsylvania,CD10,Primary,6,27461,27326
+Pennsylvania,CD11,Primary,5,35927,34573
+Pennsylvania,CD12,Primary,5,51354,42226
+Pennsylvania,CD13,Primary,5,71425,47970
+Pennsylvania,CD14,Primary,5,78437,64366
+Pennsylvania,CD15,Primary,5,38633,36678
+Pennsylvania,CD16,Primary,5,31464,30568
+Pennsylvania,CD17,Primary,9,47951,40267
+Pennsylvania,CD18,Primary,9,54673,41709
+Puerto Rico,At-large,Primary,18,54839,33958
+Puerto Rico,San Juan,Primary,4,7105,6667
+Puerto Rico,Bayamón,Primary,4,6969,4982
+Puerto Rico,Arecibo,Primary,5,7796,3740
+Puerto Rico,Mayagüez,Primary,4,6718,4387
+Puerto Rico,Ponce,Primary,4,6816,3496
+Puerto Rico,Guayama,Primary,4,6594,2987
+Puerto Rico,Humacao,Primary,4,4880,2914
+Puerto Rico,Carolina,Primary,4,7961,4785
+Rhode Island,At-large,Primary,8,52749,66993
+Rhode Island,CD01,Primary,9,29031,32773
+Rhode Island,CD02,Primary,9,23718,34220
+South Carolina,At-large,Primary,19,272379,96498
+South Carolina,CD01,Primary,6,37806,19400
+South Carolina,CD02,Primary,4,35432,15610
+South Carolina,CD03,Primary,3,24644,10034
+South Carolina,CD04,Primary,4,27556,14242
+South Carolina,CD05,Primary,5,36106,11199
+South Carolina,CD06,Primary,8,71948,14172
+South Carolina,CD07,Primary,5,38887,11841
+South Dakota,At-large,Primary,16,27047,25959
+Tennessee,At-large,Primary,22,245930,120800
+Tennessee,CD01,Primary,4,11284,10252
+Tennessee,CD02,Primary,4,18447,16377
+Tennessee,CD03,Primary,4,24279,14121
+Tennessee,CD04,Primary,4,20444,12608
+Tennessee,CD05,Primary,6,46461,24336
+Tennessee,CD06,Primary,4,20063,11145
+Tennessee,CD07,Primary,5,21930,11166
+Tennessee,CD08,Primary,4,24097,8236
+Tennessee,CD09,Primary,7,58925,12559
+Texas,At-large,Primary,79,935860,476357
+Texas,SD01,Primary,3,20935,6527
+Texas,SD02,Primary,4,22000,10851
+Texas,SD03,Primary,3,16668,6730
+Texas,SD04,Primary,4,27258,11315
+Texas,SD05,Primary,5,24794,20079
+Texas,SD06,Primary,4,25226,9353
+Texas,SD07,Primary,5,21586,11989
+Texas,SD08,Primary,6,25917,17669
+Texas,SD09,Primary,4,21810,13762
+Texas,SD10,Primary,6,39207,17440
+Texas,SD11,Primary,4,23391,11647
+Texas,SD12,Primary,5,21273,15903
+Texas,SD13,Primary,7,51568,12148
+Texas,SD14,Primary,10,57579,60387
+Texas,SD15,Primary,6,37285,14691
+Texas,SD16,Primary,6,30145,16319
+Texas,SD17,Primary,6,31480,14427
+Texas,SD18,Primary,4,23021,9865
+Texas,SD19,Primary,5,39350,16111
+Texas,SD20,Primary,4,42572,16709
+Texas,SD21,Primary,5,48558,23449
+Texas,SD22,Primary,3,20212,9299
+Texas,SD23,Primary,7,58847,15185
+Texas,SD24,Primary,3,17027,10038
+Texas,SD25,Primary,7,34279,24415
+Texas,SD26,Primary,6,38554,18319
+Texas,SD27,Primary,4,43762,16674
+Texas,SD28,Primary,2,12164,8128
+Texas,SD29,Primary,6,37513,18070
+Texas,SD30,Primary,3,13320,13349
+Texas,SD31,Primary,2,8559,5509
+Utah,At-large,Primary,10,16162,62991
+Utah,CD01,Primary,2,3388,13567
+Utah,CD02,Primary,6,5104,19894
+Utah,CD03,Primary,4,3553,13605
+Utah,CD04,Primary,7,4117,15925
+Vermont,At-large,Primary,16,18338,115900
+Virgin Islands,St. Thomas/St. John,Caucus,3,683,78
+Virgin Islands,St. Croix,Caucus,4,643,118
+Virginia,At-large,Primary,34,504741,276370
+Virginia,CD01,Primary,6,40411,23766
+Virginia,CD02,Primary,5,37989,20968
+Virginia,CD03,Primary,7,76080,26995
+Virginia,CD04,Primary,6,50615,16536
+Virginia,CD05,Primary,6,37639,22776
+Virginia,CD06,Primary,5,23924,21447
+Virginia,CD07,Primary,6,43582,26886
+Virginia,CD08,Primary,7,73396,35898
+Virginia,CD09,Primary,4,17411,15834
+Virginia,CD10,Primary,6,46175,30618
+Virginia,CD11,Primary,7,57519,34646
+Washington,At-large,Primary,31,7141,19159
+Washington,CD01,Primary,6,821,2185
+Washington,CD02,Primary,6,661,2075
+Washington,CD03,Primary,5,458,1741
+Washington,CD04,Primary,3,334,1221
+Washington,CD05,Primary,4,474,1640
+Washington,CD06,Primary,6,666,1748
+Washington,CD07,Primary,11,1098,2315
+Washington,CD08,Primary,5,896,2024
+Washington,CD09,Primary,7,1113,2312
+Washington,CD10,Primary,5,620,1898
+West Virginia,At-large,Primary,9,86914,124700
+West Virginia,CD01,Primary,6,28615,43433
+West Virginia,CD02,Primary,7,31221,38346
+West Virginia,CD03,Primary,6,27078,42921
+Wisconsin,At-large,Primary,29,433739,570192
+Wisconsin,CD01,Primary,7,47428,57405
+Wisconsin,CD02,Primary,10,77857,127969
+Wisconsin,CD03,Primary,7,47741,76036
+Wisconsin,CD04,Primary,9,80799,71912
+Wisconsin,CD05,Primary,5,46091,54935
+Wisconsin,CD06,Primary,5,44946,61088
+Wisconsin,CD07,Primary,5,42891,58687
+Wisconsin,CD08,Primary,7,45986,62160
+Wyoming,At-large,Caucus,14,3131,4122

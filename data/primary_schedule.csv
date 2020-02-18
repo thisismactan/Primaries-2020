@@ -1,0 +1,59 @@
+﻿date,state,contest_type,pledged,unpledged
+2020-02-03,Iowa,Caucus,41,8
+2020-02-11,New Hampshire,Primary,24,9
+2020-02-22,Nevada,Caucus,36,12
+2020-02-29,South Carolina,Primary,54,9
+2020-03-03,Alabama,Primary,52,9
+2020-03-03,American Samoa,Caucus,6,5
+2020-03-03,Arkansas,Primary,31,5
+2020-03-03,California,Primary,416,79
+2020-03-03,Colorado,Primary,67,13
+2020-03-03,Democrats Abroad,Primary,13,4
+2020-03-03,Massachusetts,Primary,91,23
+2020-03-03,Minnesota,Primary,75,17
+2020-03-03,North Carolina,Primary,110,12
+2020-03-03,Oklahoma,Primary,37,5
+2020-03-03,Tennessee,Primary,64,9
+2020-03-03,Texas,Primary,228,34
+2020-03-03,Utah,Primary,29,6
+2020-03-03,Vermont,Primary,16,7
+2020-03-03,Virginia,Primary,99,25
+2020-03-08,Maine,Primary,24,8
+2020-03-10,Idaho,Primary,20,5
+2020-03-10,Michigan,Primary,125,22
+2020-03-10,Mississippi,Primary,36,5
+2020-03-10,Missouri,Primary,68,10
+2020-03-10,North Dakota,Caucus,14,4
+2020-03-10,Ohio,Primary,136,17
+2020-03-10,Washington,Primary,89,18
+2020-03-14,Northern Marianas,Primary,6,5
+2020-03-17,Arizona,Primary,67,11
+2020-03-17,Florida,Primary,219,29
+2020-03-17,Illinois,Primary,155,29
+2020-03-24,Georgia,Primary,105,15
+2020-03-29,Puerto Rico,Primary,51,8
+2020-04-04,Alaska,Primary,15,4
+2020-04-04,Hawaii,Primary,24,9
+2020-04-04,Louisiana,Primary,54,7
+2020-04-04,Wyoming,Caucus,14,4
+2020-04-07,Wisconsin,Primary,84,13
+2020-04-28,Connecticut,Primary,60,15
+2020-04-28,Delaware,Primary,21,11
+2020-04-28,Maryland,Primary,96,23
+2020-04-28,New York,Primary,273,46
+2020-04-28,Pennsylvania,Primary,186,24
+2020-04-28,Rhode Island,Primary,26,9
+2020-05-02,Guam,Caucus,7,5
+2020-05-02,Kansas,Primary,39,6
+2020-05-05,Indiana,Primary,82,7
+2020-05-12,Nebraska,Primary,29,4
+2020-05-12,West Virginia,Primary,28,6
+2020-05-19,Kentucky,Primary,54,6
+2020-05-19,Oregon,Primary,61,14
+2020-06-02,District of Columbia,Primary,20,26
+2020-06-02,Montana,Primary,19,6
+2020-06-02,New Jersey,Primary,126,21
+2020-06-02,New Mexico,Primary,34,11
+2020-06-02,South Dakota,Primary,16,5
+2020-06-06,Virgin Islands,Caucus,7,6
+,Unassigned,,0,1

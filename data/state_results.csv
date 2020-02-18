@@ -1,0 +1,57 @@
+﻿state,district,candidate,pct,candidate_delegates
+Iowa,At-large,biden,0.1582,2
+Iowa,At-large,buttigieg,0.2628,5
+Iowa,At-large,klobuchar,0.1219,0
+Iowa,At-large,sanders,0.2611,4
+Iowa,At-large,steyer,0.0032,0
+Iowa,At-large,warren,0.182,3
+Iowa,At-large,yang,0.0103,0
+Iowa,CD01,biden,,2
+Iowa,CD01,buttigieg,,2
+Iowa,CD01,klobuchar,,0
+Iowa,CD01,sanders,,2
+Iowa,CD01,steyer,,0
+Iowa,CD01,warren,,1
+Iowa,CD01,yang,,0
+Iowa,CD02,biden,,0
+Iowa,CD02,buttigieg,,2
+Iowa,CD02,klobuchar,,0
+Iowa,CD02,sanders,,3
+Iowa,CD02,steyer,,0
+Iowa,CD02,warren,,2
+Iowa,CD02,yang,,0
+Iowa,CD03,biden,,1
+Iowa,CD03,buttigieg,,3
+Iowa,CD03,klobuchar,,0
+Iowa,CD03,sanders,,2
+Iowa,CD03,steyer,,0
+Iowa,CD03,warren,,2
+Iowa,CD03,yang,,0
+Iowa,CD04,biden,,1
+Iowa,CD04,buttigieg,,2
+Iowa,CD04,klobuchar,,1
+Iowa,CD04,sanders,,1
+Iowa,CD04,steyer,,0
+Iowa,CD04,warren,,0
+Iowa,CD04,yang,,0
+New Hampshire,At-large,biden,0.08401602,0
+New Hampshire,At-large,buttigieg,0.244273857,3
+New Hampshire,At-large,klobuchar,0.198218608,2
+New Hampshire,At-large,sanders,0.257310651,3
+New Hampshire,At-large,steyer,0.036163872,0
+New Hampshire,At-large,warren,0.092329632,0
+New Hampshire,At-large,yang,0.02803231,0
+New Hampshire,CD01,biden,,0
+New Hampshire,CD01,buttigieg,,3
+New Hampshire,CD01,klobuchar,,2
+New Hampshire,CD01,sanders,,3
+New Hampshire,CD01,steyer,,0
+New Hampshire,CD01,warren,,0
+New Hampshire,CD01,yang,,0
+New Hampshire,CD02,biden,,0
+New Hampshire,CD02,buttigieg,,3
+New Hampshire,CD02,klobuchar,,2
+New Hampshire,CD02,sanders,,3
+New Hampshire,CD02,steyer,,0
+New Hampshire,CD02,warren,,0
+New Hampshire,CD02,yang,,0

@@ -1,0 +1,61 @@
+﻿gender,race,age,education,turnout
+Male,White,18-24,College,0.57
+Male,White,18-24,Less than college,0.48
+Male,White,25-34,College,0.57
+Male,White,25-34,Less than college,0.48
+Male,White,35-44,College,0.66
+Male,White,35-44,Less than college,0.55
+Male,White,45-64,College,0.67
+Male,White,45-64,Less than college,0.59
+Male,White,65+,College,0.73
+Male,White,65+,Less than college,0.65
+Male,Black,18-24,College,0.52
+Male,Black,18-24,Less than college,0.45
+Male,Black,25-34,College,0.52
+Male,Black,25-34,Less than college,0.45
+Male,Black,35-44,College,0.6
+Male,Black,35-44,Less than college,0.5
+Male,Black,45-64,College,0.6
+Male,Black,45-64,Less than college,0.5
+Male,Black,65+,College,0.69
+Male,Black,65+,Less than college,0.56
+Male,Latino,18-24,College,0.47
+Male,Latino,18-24,Less than college,0.35
+Male,Latino,25-34,College,0.47
+Male,Latino,25-34,Less than college,0.35
+Male,Latino,35-44,College,0.48
+Male,Latino,35-44,Less than college,0.4
+Male,Latino,45-64,College,0.48
+Male,Latino,45-64,Less than college,0.4
+Male,Latino,65+,College,0.51
+Male,Latino,65+,Less than college,0.42
+Female,White,18-24,College,0.59
+Female,White,18-24,Less than college,0.5
+Female,White,25-34,College,0.59
+Female,White,25-34,Less than college,0.5
+Female,White,35-44,College,0.59
+Female,White,35-44,Less than college,0.5
+Female,White,45-64,College,0.68
+Female,White,45-64,Less than college,0.57
+Female,White,65+,College,0.67
+Female,White,65+,Less than college,0.59
+Female,Black,18-24,College,0.55
+Female,Black,18-24,Less than college,0.46
+Female,Black,25-34,College,0.55
+Female,Black,25-34,Less than college,0.46
+Female,Black,35-44,College,0.67
+Female,Black,35-44,Less than college,0.53
+Female,Black,45-64,College,0.67
+Female,Black,45-64,Less than college,0.53
+Female,Black,65+,College,0.73
+Female,Black,65+,Less than college,0.61
+Female,Latino,18-24,College,0.47
+Female,Latino,18-24,Less than college,0.35
+Female,Latino,25-34,College,0.47
+Female,Latino,25-34,Less than college,0.35
+Female,Latino,35-44,College,0.47
+Female,Latino,35-44,Less than college,0.35
+Female,Latino,45-64,College,0.48
+Female,Latino,45-64,Less than college,0.4
+Female,Latino,65+,College,0.51
+Female,Latino,65+,Less than college,0.42

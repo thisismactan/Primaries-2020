@@ -47,7 +47,7 @@ state_averages_over_time_unsmoothed <- bind_rows(poll_average_list) %>%
   ungroup() %>%
   filter(!(state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina") & candidate == "bloomberg"))
 
-state_alphas_over_time <- state_betas_over_time <- rep(0, nrow(state_averages_over_time))
+state_alphas_over_time <- state_betas_over_time <- rep(0, nrow(state_averages_over_time_unsmoothed))
 
 for(i in 1:nrow(state_averages_over_time_unsmoothed)) {
   beta_estimates <- betaMOM(mu = state_averages_over_time_unsmoothed$pct[i], v = state_averages_over_time_unsmoothed$var[i])

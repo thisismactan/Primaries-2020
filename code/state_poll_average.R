@@ -2,7 +2,7 @@ source("code/state_poll_average_over_time.R")
 
 state_primary_schedule <- read_csv("data/primary_schedule.csv")
   
-state_name <- "Nevada"
+state_name <- "South Carolina"
 contest_type <- ifelse(
   state_name %in% c("Iowa", "Nevada", "American Samoa", "North Dakota", "Wyoming", "Virgin Islands"),
   "caucus", "primary"

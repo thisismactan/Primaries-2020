@@ -44423,3 +44423,4446 @@ There were 50 or more warnings (use warnings() to see the first 50)ThThere were 
 e were 50 or more warnings (use warnings() to see the first 50)
 There were 50 or more warnings (use warnings() to see the first 50)
 There were 50 or more warnings (use warnings() to see the first 50)
+starting worker pid=25008 on localhost:11727 at 13:10:47.443
+starting worker pid=8332 on localhost:11727 at 13:10:47.636
+starting worker pid=18628 on localhost:11727 at 13:10:47.824
+starting worker pid=23192 on localhost:11727 at 13:10:47.992
+starting worker pid=17888 on localhost:11727 at 13:10:48.159
+starting worker pid=1488 on localhost:11727 at 13:10:48.334
+starting worker pid=14484 on localhost:11727 at 13:10:48.512
+starting worker pid=20548 on localhost:11727 at 13:10:48.688
+starting worker pid=19028 on localhost:11727 at 13:10:48.859
+starting worker pid=18068 on localhost:11727 at 13:10:49.025
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+ from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+ from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: survival
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+
+There were 50 or more warnings (use warnings() to see the first 50)
+starting worker pid=1924 on localhost:11727 at 16:49:15.261
+starting worker pid=24628 on localhost:11727 at 16:49:15.451
+starting worker pid=22464 on localhost:11727 at 16:49:15.615
+starting worker pid=11460 on localhost:11727 at 16:49:15.780
+starting worker pid=17852 on localhost:11727 at 16:49:15.954
+starting worker pid=25060 on localhost:11727 at 16:49:16.127
+starting worker pid=2936 on localhost:11727 at 16:49:16.308
+starting worker pid=8316 on localhost:11727 at 16:49:16.478
+starting worker pid=4880 on localhost:11727 at 16:49:16.655
+starting worker pid=24280 on localhost:11727 at 16:49:16.832
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+ from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+ff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+ from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: survival
+Loading required package: ggplot2
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+
+Attaching package: 'Hmisc'
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+
+Attaching package: 'tidyr'
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+
+Attaching package: 'Hmisc'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+There were 50 or more warnings (use warnings() to see the first 50)
+
+starting worker pid=22100 on localhost:11536 at 14:06:35.152
+starting worker pid=2236 on localhost:11536 at 14:06:35.499
+starting worker pid=25960 on localhost:11536 at 14:06:35.864
+starting worker pid=22744 on localhost:11536 at 14:06:36.128
+starting worker pid=17540 on localhost:11536 at 14:06:36.430
+starting worker pid=8572 on localhost:11536 at 14:06:36.822
+starting worker pid=20184 on localhost:11536 at 14:06:37.170
+starting worker pid=24420 on localhost:11536 at 14:06:37.558
+starting worker pid=2656 on localhost:11536 at 14:06:37.902
+starting worker pid=12940 on localhost:11536 at 14:06:38.286
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: survival
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+starting worker pid=19312 on localhost:11536 at 14:09:07.205
+starting worker pid=16824 on localhost:11536 at 14:09:07.424
+starting worker pid=20892 on localhost:11536 at 14:09:07.757
+starting worker pid=25356 on localhost:11536 at 14:09:07.963
+starting worker pid=24876 on localhost:11536 at 14:09:08.186
+starting worker pid=25692 on localhost:11536 at 14:09:08.396
+starting worker pid=12240 on localhost:11536 at 14:09:08.606
+starting worker pid=26240 on localhost:11536 at 14:09:08.798
+starting worker pid=11012 on localhost:11536 at 14:09:09.014
+starting worker pid=13996 on localhost:11536 at 14:09:09.223
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: Formula
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+
+Attaching package: 'Hmisc'
+
+rom 'package:reshape2':
+
+    smiths
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+ize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+starting worker pid=26224 on localhost:11190 at 10:51:05.225
+starting worker pid=2256 on localhost:11190 at 10:51:05.408
+starting worker pid=22312 on localhost:11190 at 10:51:05.579
+starting worker pid=2148 on localhost:11190 at 10:51:05.749
+starting worker pid=22352 on localhost:11190 at 10:51:05.923
+starting worker pid=26544 on localhost:11190 at 10:51:06.116
+starting worker pid=27344 on localhost:11190 at 10:51:06.299
+starting worker pid=13704 on localhost:11190 at 10:51:06.471
+starting worker pid=27496 on localhost:11190 at 10:51:06.644
+starting worker pid=24656 on localhost:11190 at 10:51:06.824
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+ from 'package:stats':
+
+    filter, lag
+
+ff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+starting worker pid=25208 on localhost:11190 at 10:53:56.442
+starting worker pid=1796 on localhost:11190 at 10:53:56.615
+starting worker pid=12240 on localhost:11190 at 10:53:56.785
+starting worker pid=5804 on localhost:11190 at 10:53:56.969
+starting worker pid=14200 on localhost:11190 at 10:53:57.143
+starting worker pid=28304 on localhost:11190 at 10:53:57.327
+starting worker pid=2440 on localhost:11190 at 10:53:57.504
+starting worker pid=26492 on localhost:11190 at 10:53:57.678
+starting worker pid=23852 on localhost:11190 at 10:53:57.848
+starting worker pid=28364 on localhost:11190 at 10:53:58.021
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+starting worker pid=6008 on localhost:11190 at 10:59:52.303
+starting worker pid=10784 on localhost:11190 at 10:59:52.482
+starting worker pid=23992 on localhost:11190 at 10:59:52.646
+starting worker pid=18164 on localhost:11190 at 10:59:52.813
+starting worker pid=14516 on localhost:11190 at 10:59:52.982
+starting worker pid=27728 on localhost:11190 at 10:59:53.171
+starting worker pid=19076 on localhost:11190 at 10:59:53.360
+starting worker pid=20084 on localhost:11190 at 10:59:53.533
+starting worker pid=13092 on localhost:11190 at 10:59:53.704
+starting worker pid=26792 on localhost:11190 at 10:59:53.875
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+starting worker pid=6756 on localhost:11190 at 11:05:22.557
+starting worker pid=25392 on localhost:11190 at 11:05:22.732
+starting worker pid=27212 on localhost:11190 at 11:05:22.900
+starting worker pid=9412 on localhost:11190 at 11:05:23.068
+starting worker pid=16132 on localhost:11190 at 11:05:23.237
+starting worker pid=3484 on localhost:11190 at 11:05:23.419
+starting worker pid=6732 on localhost:11190 at 11:05:23.620
+starting worker pid=4148 on localhost:11190 at 11:05:23.807
+starting worker pid=7120 on localhost:11190 at 11:05:23.987
+starting worker pid=24472 on localhost:11190 at 11:05:24.169
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: survival
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+starting worker pid=17512 on localhost:11190 at 11:11:28.988
+starting worker pid=28288 on localhost:11190 at 11:11:29.163
+starting worker pid=27044 on localhost:11190 at 11:11:29.330
+starting worker pid=28500 on localhost:11190 at 11:11:29.499
+starting worker pid=27100 on localhost:11190 at 11:11:29.669
+starting worker pid=19240 on localhost:11190 at 11:11:29.845
+starting worker pid=9876 on localhost:11190 at 11:11:30.027
+starting worker pid=9960 on localhost:11190 at 11:11:30.207
+starting worker pid=23716 on localhost:11190 at 11:11:30.380
+starting worker pid=21688 on localhost:11190 at 11:11:30.549
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Error in unserialize(node$con) : 
+  ReadItem: unknown type 0, perhaps written by later version of R
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+starting worker pid=21540 on localhost:11190 at 11:57:30.604
+starting worker pid=16024 on localhost:11190 at 11:57:30.789
+starting worker pid=28156 on localhost:11190 at 11:57:30.956
+starting worker pid=25792 on localhost:11190 at 11:57:31.123
+starting worker pid=5564 on localhost:11190 at 11:57:31.288
+starting worker pid=17896 on localhost:11190 at 11:57:31.464
+starting worker pid=16488 on localhost:11190 at 11:57:31.654
+starting worker pid=13008 on localhost:11190 at 11:57:31.840
+starting worker pid=27420 on localhost:11190 at 11:57:32.008
+starting worker pid=26284 on localhost:11190 at 11:57:32.172
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are maskedThe following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+ from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: ggplot2
+Loading required package: Formula
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+starting worker pid=8712 on localhost:11190 at 12:03:30.646
+starting worker pid=11276 on localhost:11190 at 12:03:30.822
+starting worker pid=18620 on localhost:11190 at 12:03:31.031
+starting worker pid=26696 on localhost:11190 at 12:03:31.204
+starting worker pid=11328 on localhost:11190 at 12:03:31.377
+starting worker pid=7908 on localhost:11190 at 12:03:31.561
+starting worker pid=15260 on localhost:11190 at 12:03:31.754
+starting worker pid=22344 on localhost:11190 at 12:03:31.921
+starting worker pid=27636 on localhost:11190 at 12:03:32.089
+starting worker pid=18588 on localhost:11190 at 12:03:32.258
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: survival
+Loading required package: ggplot2
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+There were 50 or more warnings (use warnings() to see the first 50)
+ere were 50 or more warnings (use warnings() to see the first 50)
+ere were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+
+There were 50 or more warnings (use warnings() to see the first 50)
+
+starting worker pid=23916 on localhost:11190 at 13:45:08.175
+starting worker pid=27500 on localhost:11190 at 13:45:08.359
+starting worker pid=25164 on localhost:11190 at 13:45:08.523
+starting worker pid=600 on localhost:11190 at 13:45:08.687
+starting worker pid=5400 on localhost:11190 at 13:45:08.858
+starting worker pid=26336 on localhost:11190 at 13:45:09.032
+starting worker pid=21900 on localhost:11190 at 13:45:09.224
+starting worker pid=27320 on localhost:11190 at 13:45:09.396
+starting worker pid=2816 on localhost:11190 at 13:45:09.572
+starting worker pid=27856 on localhost:11190 at 13:45:09.738
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: lattice
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: survival
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: ggplot2
+Loading required package: Formula
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+
+
+
+There were 50 or more warnings (use warnings() to see the first 50)There were 50 or more warnings (use warnings() to see the first 50)There were 50 or more warnings (use warnings() to see the first 50)There were 50 or more warnings (use warnings() to see the first 50)
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+2: Column `demographic` joining factor and character vector, coercing into character vector 
+3: In rnorm(n(), mean = avg_lean, sd = lean_se) : NAs produced
+4: Column `demographic` joining factor and character vector, coercing into character vector 
+Execution halted
+starting worker pid=23536 on localhost:11190 at 16:07:43.145
+starting worker pid=26996 on localhost:11190 at 16:07:43.316
+starting worker pid=23244 on localhost:11190 at 16:07:43.482
+starting worker pid=1392 on localhost:11190 at 16:07:43.672
+starting worker pid=14100 on localhost:11190 at 16:07:43.837
+starting worker pid=11192 on localhost:11190 at 16:07:44.010
+starting worker pid=13272 on localhost:11190 at 16:07:44.185
+starting worker pid=27812 on localhost:11190 at 16:07:44.356
+starting worker pid=24564 on localhost:11190 at 16:07:44.521
+starting worker pid=16876 on localhost:11190 at 16:07:44.699
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+ff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+e -> unserialize
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+ze(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+starting worker pid=11564 on localhost:11190 at 16:49:24.766
+starting worker pid=23008 on localhost:11190 at 16:49:24.937
+starting worker pid=8420 on localhost:11190 at 16:49:25.102
+starting worker pid=13052 on localhost:11190 at 16:49:25.267
+starting worker pid=6476 on localhost:11190 at 16:49:25.429
+starting worker pid=13188 on localhost:11190 at 16:49:25.595
+starting worker pid=26104 on localhost:11190 at 16:49:25.774
+starting worker pid=13296 on localhost:11190 at 16:49:25.944
+starting worker pid=16024 on localhost:11190 at 16:49:26.111
+starting worker pid=10144 on localhost:11190 at 16:49:26.274
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+There were 50 or more warnings (use warnings() to see the first 50)
+
+There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : unknown input format
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+starting worker pid=25928 on localhost:11190 at 17:57:10.197
+starting worker pid=22576 on localhost:11190 at 17:57:10.486
+starting worker pid=26232 on localhost:11190 at 17:57:10.726
+starting worker pid=20828 on localhost:11190 at 17:57:10.944
+starting worker pid=19360 on localhost:11190 at 17:57:11.204
+starting worker pid=444 on localhost:11190 at 17:57:11.467
+starting worker pid=26300 on localhost:11190 at 17:57:11.693
+starting worker pid=16628 on localhost:11190 at 17:57:11.930
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+Loading required package: Formula
+Loading required package: ggplot2
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:dplyr':
+
+    src, summarize
+
+The following objects are masked from 'package:base':
+
+    format.pval, units
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+
+Attaching package: 'tidyr'
+
+The following object is masked from 'package:reshape2':
+
+    smiths
+
+There were 50 or more warnings (use warnings() to see the first 50)
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 28 warnings (use warnings() to see them)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted

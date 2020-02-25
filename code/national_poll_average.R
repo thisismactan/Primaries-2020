@@ -19,9 +19,11 @@ national_polls_adjusted %>%
   filter(candidate != "yang") %>%
   ggplot(aes(x = median_date, col = candidate)) +
   geom_vline(xintercept = contest_date) +
-  geom_ribbon(data = national_averages_adjusted, aes(ymin = lower, ymax = upper, fill = candidate), col = NA, alpha = 1/7) +
+  geom_ribbon(data = national_averages_adjusted %>% 
+                filter(candidate != "yang"), aes(ymin = lower, ymax = upper, fill = candidate), col = NA, alpha = 1/7) +
   geom_point(aes(y = 100*pct), alpha = 1/2, size = 1) +
-  geom_line(data = national_averages_adjusted, aes(y = pct), lwd = 1.3) +
+  geom_line(data = national_averages_adjusted %>% 
+              filter(candidate != "yang"), aes(y = pct), lwd = 1.3) +
   scale_fill_manual(name = "Candidate", labels = candidate_labels, values = candidate_colors) +
   scale_colour_manual(name = "Candidate", labels = candidate_labels, values = candidate_colors) +
   scale_x_date(breaks = "1 month", date_labels = "%e %b %Y", limits = as.Date(c("2019-06-01", "2020-06-16"))) +

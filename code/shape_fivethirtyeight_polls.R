@@ -39,7 +39,7 @@ primary_polls_post_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020.
          !(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina"))) %>%
   as.tbl()
 
-primary_polls_pre_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020_pre_nh.csv") %>%
+primary_polls_pre_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020_pre_sc.csv") %>%
   filter(race == "2020D", population != "a") %>%
   mutate(start_date = as.Date(startdate, format = "%m/%d/%Y"),
          end_date = as.Date(enddate, format = "%m/%d/%Y"),

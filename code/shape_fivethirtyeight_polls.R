@@ -3,7 +3,7 @@ source("code/library.R")
 download.file(url = "https://projects.fivethirtyeight.com/2020-primary-data/primary_polls_2020.csv",
               destfile = "data/fivethirtyeight-data/primary_polls_2020.csv")
 
-primary_polls_post_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020.csv") %>%
+primary_polls_post_sc <- read_csv("data/fivethirtyeight-data/primary_polls_2020.csv") %>%
   filter(race == "2020D", population != "a") %>%
   mutate(start_date = as.Date(startdate, format = "%m/%d/%Y"),
          end_date = as.Date(enddate, format = "%m/%d/%Y"),
@@ -11,7 +11,7 @@ primary_polls_post_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020.
          median_date = start_date + round(spread/2),
          age = as.numeric(today() - median_date),
          pop = toupper(population),
-         loess_weight = ifelse(median_date >= as.Date("2020-02-07"), 16, 1) * 10 * samplesize^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
+         loess_weight = ifelse(median_date >= as.Date("2020-02-24"), 16, 1) * 10 * samplesize^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
          weight = case_when(state == "National" ~ loess_weight * (age <= 45) / exp(age^0.8),
                             state != "National" ~ loess_weight / exp(age^(0.8))),
          candidate = case_when(grepl("Bennet", candidate_name) ~ "bennet",
@@ -39,7 +39,7 @@ primary_polls_post_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020.
          !(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina"))) %>%
   as.tbl()
 
-primary_polls_pre_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020_pre_sc.csv") %>%
+primary_polls_pre_sc <- read_csv("data/fivethirtyeight-data/primary_polls_2020_pre_sc.csv") %>%
   filter(race == "2020D", population != "a") %>%
   mutate(start_date = as.Date(startdate, format = "%m/%d/%Y"),
          end_date = as.Date(enddate, format = "%m/%d/%Y"),
@@ -47,7 +47,7 @@ primary_polls_pre_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020_p
          median_date = start_date + round(spread/2),
          age = as.numeric(today() - median_date),
          pop = toupper(population),
-         loess_weight = ifelse(median_date >= as.Date("2020-02-07"), 16, 1) * 10 * samplesize^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
+         loess_weight = ifelse(median_date >= as.Date("2020-02-29"), 16, 1) * 10 * samplesize^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
          weight = case_when(state == "National" ~ loess_weight * (age <= 45) / exp(age^0.8),
                             state != "National" ~ loess_weight / exp(age^(0.8))),
          candidate = case_when(grepl("Bennet", candidate_name) ~ "bennet",
@@ -75,7 +75,7 @@ primary_polls_pre_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020_p
          !(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina"))) %>%
   as.tbl()
 
-primary_polls <- bind_rows(primary_polls_pre_nh, primary_polls_post_nh) %>%
+primary_polls <- bind_rows(primary_polls_pre_sc, primary_polls_post_sc) %>%
   distinct(pollster, state, median_date, spread, candidate, .keep_all = TRUE) %>%
   mutate(pct = case_when(is.na(pct) ~ 0,
                          !is.na(pct) ~ pct))

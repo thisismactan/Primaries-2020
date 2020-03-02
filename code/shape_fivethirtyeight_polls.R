@@ -75,7 +75,43 @@ primary_polls_pre_sc <- read_csv("data/fivethirtyeight-data/primary_polls_2020_p
          !(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina"))) %>%
   as.tbl()
 
-primary_polls <- bind_rows(primary_polls_pre_sc, primary_polls_post_sc) %>%
+primary_polls_pre_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020_pre_nh.csv") %>%
+  filter(race == "2020D", population != "a") %>%
+  mutate(start_date = as.Date(startdate, format = "%m/%d/%Y"),
+         end_date = as.Date(enddate, format = "%m/%d/%Y"),
+         spread = as.numeric(end_date - start_date) + 1,
+         median_date = start_date + round(spread/2),
+         age = as.numeric(today() - median_date),
+         pop = toupper(population),
+         loess_weight = ifelse(median_date >= as.Date("2020-02-29"), 16, 1) * 10 * samplesize^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
+         weight = case_when(state == "National" ~ loess_weight * (age <= 45) / exp(age^0.8),
+                            state != "National" ~ loess_weight / exp(age^(0.8))),
+         candidate = case_when(grepl("Bennet", candidate_name) ~ "bennet",
+                               grepl("Biden", candidate_name) ~ "biden",
+                               grepl("Bloomberg", candidate_name) ~ "bloomberg",
+                               grepl("Booker", candidate_name) ~ "booker",
+                               grepl("Buttigieg", candidate_name) ~ "buttigieg",
+                               grepl("Delaney", candidate_name) ~ "delaney",
+                               grepl("Gabbard", candidate_name) ~ "gabbard",
+                               grepl("Klobuchar", candidate_name) ~ "klobuchar",
+                               grepl("Patrick", candidate_name) ~ "patrick",
+                               grepl("Sanders", candidate_name) ~ "sanders",
+                               grepl("Steyer", candidate_name) ~ "steyer",
+                               grepl("Warren", candidate_name) ~ "warren",
+                               grepl("Yang", candidate_name) ~ "yang"),
+         pct = pct / 100) %>%
+  arrange(age, pollster, candidate_name) %>%
+  dplyr::select(state, pollster, median_date, age, spread, n = samplesize, pop, loess_weight, weight, candidate, pct) %>%
+  spread(candidate, pct) %>%
+  filter(!is.na(biden), !is.na(sanders), !is.na(warren), n >= 30) %>%
+  melt(id.vars = c("state", "pollster", "median_date", "age", "spread", "n", "pop", "loess_weight", "weight"), 
+       variable.name = "candidate", value.name = "pct") %>%
+  arrange(state, median_date, pollster, candidate) %>%
+  filter(!candidate %in% c("bennet", "booker", "delaney", "gabbard", "patrick", "harris"),
+         !(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina"))) %>%
+  as.tbl()
+
+primary_polls <- bind_rows(primary_polls_pre_nh, primary_polls_pre_sc, primary_polls_post_sc) %>%
   distinct(pollster, state, median_date, spread, candidate, .keep_all = TRUE) %>%
   mutate(pct = case_when(is.na(pct) ~ 0,
                          !is.na(pct) ~ pct))

@@ -13,7 +13,7 @@ contest_date <- state_primary_schedule %>%
 
 ## Column plot
 state_averages %>%
-  filter(state == state_name, !(candidate %in% c("yang", "steyer", "buttigieg"))) %>%
+  filter(state == state_name, candidate %in% c("biden", "bloomberg", "sanders", "warren")) %>%
   ggplot(aes(x = candidate, fill = candidate)) +
   geom_col(aes(y = state_avg)) +
   geom_errorbar(aes(ymin = lower, ymax = upper), col = "#555555") +
@@ -26,13 +26,13 @@ state_averages %>%
 
 ## Over time
 state_polls %>%
-  filter(state == state_name, !(candidate %in% c("yang", "steyer", "buttigieg"))) %>%
+  filter(state == state_name, candidate %in% c("biden", "bloomberg", "sanders", "warren")) %>%
   ggplot(aes(x = median_date, col = candidate)) +
   geom_vline(xintercept = contest_date) +
-  geom_ribbon(data = state_averages_over_time %>% filter(state == state_name, !(candidate %in% c("yang", "steyer", "buttigieg"))), 
+  geom_ribbon(data = state_averages_over_time %>% filter(state == state_name, candidate %in% c("biden", "bloomberg", "sanders", "warren")), 
               aes(ymin = lower, ymax = upper, fill = candidate), col = NA, alpha = 1/7) +
   geom_point(aes(y = pct_adjusted), alpha = 3/4, size = 1) +
-  geom_line(data = state_averages_over_time %>% filter(state == state_name, !(candidate %in% c("yang", "steyer", "buttigieg"))), 
+  geom_line(data = state_averages_over_time %>% filter(state == state_name, candidate %in% c("biden", "bloomberg", "sanders", "warren")), 
             aes(y = pct), lwd = 1.3) +
   scale_fill_manual(name = "Candidate", labels = candidate_labels, values = candidate_colors) +
   scale_colour_manual(name = "Candidate", labels = candidate_labels, values = candidate_colors) +

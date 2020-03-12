@@ -1,148 +1,198 @@
 ﻿state,district,candidate,pct,candidate_delegates
-Iowa,At-large,biden,0.1582,2
-Iowa,At-large,buttigieg,0.2628,5
-Iowa,At-large,klobuchar,0.1219,0
-Iowa,At-large,sanders,0.2611,4
+Iowa,At-large,biden,0.1582,6
+Iowa,At-large,buttigieg,0.2628,14
+Iowa,At-large,klobuchar,0.1219,1
+Iowa,At-large,sanders,0.2611,12
 Iowa,At-large,steyer,0.0032,0
-Iowa,At-large,warren,0.182,3
+Iowa,At-large,warren,0.182,8
 Iowa,At-large,yang,0.0103,0
-Iowa,CD01,biden,,2
-Iowa,CD01,buttigieg,,2
-Iowa,CD01,klobuchar,,0
-Iowa,CD01,sanders,,2
-Iowa,CD01,steyer,,0
-Iowa,CD01,warren,,1
-Iowa,CD01,yang,,0
-Iowa,CD02,biden,,0
-Iowa,CD02,buttigieg,,2
-Iowa,CD02,klobuchar,,0
-Iowa,CD02,sanders,,3
-Iowa,CD02,steyer,,0
-Iowa,CD02,warren,,2
-Iowa,CD02,yang,,0
-Iowa,CD03,biden,,1
-Iowa,CD03,buttigieg,,3
-Iowa,CD03,klobuchar,,0
-Iowa,CD03,sanders,,2
-Iowa,CD03,steyer,,0
-Iowa,CD03,warren,,2
-Iowa,CD03,yang,,0
-Iowa,CD04,biden,,1
-Iowa,CD04,buttigieg,,2
-Iowa,CD04,klobuchar,,1
-Iowa,CD04,sanders,,1
-Iowa,CD04,steyer,,0
-Iowa,CD04,warren,,0
-Iowa,CD04,yang,,0
 New Hampshire,At-large,biden,0.08401602,0
-New Hampshire,At-large,buttigieg,0.244273857,3
-New Hampshire,At-large,klobuchar,0.198218608,2
-New Hampshire,At-large,sanders,0.257310651,3
+New Hampshire,At-large,buttigieg,0.244273857,9
+New Hampshire,At-large,klobuchar,0.198218608,6
+New Hampshire,At-large,sanders,0.257310651,9
 New Hampshire,At-large,steyer,0.036163872,0
 New Hampshire,At-large,warren,0.092329632,0
 New Hampshire,At-large,yang,0.02803231,0
-New Hampshire,CD01,biden,,0
-New Hampshire,CD01,buttigieg,,3
-New Hampshire,CD01,klobuchar,,2
-New Hampshire,CD01,sanders,,3
-New Hampshire,CD01,steyer,,0
-New Hampshire,CD01,warren,,0
-New Hampshire,CD01,yang,,0
-New Hampshire,CD02,biden,,0
-New Hampshire,CD02,buttigieg,,3
-New Hampshire,CD02,klobuchar,,2
-New Hampshire,CD02,sanders,,3
-New Hampshire,CD02,steyer,,0
-New Hampshire,CD02,warren,,0
-New Hampshire,CD02,yang,,0
-Nevada,At-large,biden,0.1786,4
-Nevada,At-large,buttigieg,0.1517,0
+Nevada,At-large,biden,0.1786,9
+Nevada,At-large,buttigieg,0.1517,3
 Nevada,At-large,klobuchar,0.0925,0
-Nevada,At-large,sanders,0.3426,9
+Nevada,At-large,sanders,0.3426,24
 Nevada,At-large,steyer,0.0912,0
 Nevada,At-large,warren,0.1276,0
 Nevada,At-large,yang,0.0001,0
-Nevada,CD01,biden,,1
-Nevada,CD01,buttigieg,,0
-Nevada,CD01,klobuchar,,0
-Nevada,CD01,sanders,,4
-Nevada,CD01,steyer,,0
-Nevada,CD01,warren,,0
-Nevada,CD01,yang,,0
-Nevada,CD02,biden,,0
-Nevada,CD02,buttigieg,,2
-Nevada,CD02,klobuchar,,0
-Nevada,CD02,sanders,,4
-Nevada,CD02,steyer,,0
-Nevada,CD02,warren,,0
-Nevada,CD02,yang,,0
-Nevada,CD03,biden,,2
-Nevada,CD03,buttigieg,,1
-Nevada,CD03,klobuchar,,0
-Nevada,CD03,sanders,,3
-Nevada,CD03,steyer,,0
-Nevada,CD03,warren,,0
-Nevada,CD03,yang,,0
-Nevada,CD04,biden,,2
-Nevada,CD04,buttigieg,,0
-Nevada,CD04,klobuchar,,0
-Nevada,CD04,sanders,,4
-Nevada,CD04,steyer,,0
-Nevada,CD04,warren,,0
-Nevada,CD04,yang,,0
-South Carolina,At-large,biden,0.4846,13
+South Carolina,At-large,biden,0.4846,39
 South Carolina,At-large,buttigieg,0.0823,0
 South Carolina,At-large,klobuchar,0.0314,0
-South Carolina,At-large,sanders,0.1991,6
+South Carolina,At-large,sanders,0.1991,15
 South Carolina,At-large,steyer,0.1134,0
 South Carolina,At-large,warren,0.0706,0
 South Carolina,At-large,yang,0.002,0
-South Carolina,CD01,biden,,4
-South Carolina,CD01,buttigieg,,0
-South Carolina,CD01,klobuchar,,0
-South Carolina,CD01,sanders,,2
-South Carolina,CD01,steyer,,0
-South Carolina,CD01,warren,,0
-South Carolina,CD01,yang,,0
-South Carolina,CD02,biden,,3
-South Carolina,CD02,buttigieg,,0
-South Carolina,CD02,klobuchar,,0
-South Carolina,CD02,sanders,,1
-South Carolina,CD02,steyer,,0
-South Carolina,CD02,warren,,0
-South Carolina,CD02,yang,,0
-South Carolina,CD03,biden,,2
-South Carolina,CD03,buttigieg,,0
-South Carolina,CD03,klobuchar,,0
-South Carolina,CD03,sanders,,1
-South Carolina,CD03,steyer,,0
-South Carolina,CD03,warren,,0
-South Carolina,CD03,yang,,0
-South Carolina,CD04,biden,,2
-South Carolina,CD04,buttigieg,,0
-South Carolina,CD04,klobuchar,,0
-South Carolina,CD04,sanders,,2
-South Carolina,CD04,steyer,,0
-South Carolina,CD04,warren,,0
-South Carolina,CD04,yang,,0
-South Carolina,CD05,biden,,4
-South Carolina,CD05,buttigieg,,0
-South Carolina,CD05,klobuchar,,0
-South Carolina,CD05,sanders,,1
-South Carolina,CD05,steyer,,0
-South Carolina,CD05,warren,,0
-South Carolina,CD05,yang,,0
-South Carolina,CD06,biden,,6
-South Carolina,CD06,buttigieg,,0
-South Carolina,CD06,klobuchar,,0
-South Carolina,CD06,sanders,,2
-South Carolina,CD06,steyer,,0
-South Carolina,CD06,warren,,0
-South Carolina,CD06,yang,,0
-South Carolina,CD07,biden,,4
-South Carolina,CD07,buttigieg,,0
-South Carolina,CD07,klobuchar,,0
-South Carolina,CD07,sanders,,1
-South Carolina,CD07,steyer,,0
-South Carolina,CD07,warren,,0
-South Carolina,CD07,yang,,0
+Alabama,At-large,biden,0.6326,44
+Alabama,At-large,bloomberg,0.1168,0
+Alabama,At-large,buttigieg,0.0031,0
+Alabama,At-large,klobuchar,0.002,0
+Alabama,At-large,sanders,0.1654,8
+Alabama,At-large,steyer,0.0023,0
+Alabama,At-large,warren,0.0572,0
+Alabama,At-large,yang,0.0019,0
+Arkansas,At-large,biden,0.4049,17
+Arkansas,At-large,bloomberg,0.1673,5
+Arkansas,At-large,buttigieg,0.0336,0
+Arkansas,At-large,klobuchar,0.0308,0
+Arkansas,At-large,sanders,0.2238,9
+Arkansas,At-large,steyer,0.0091,0
+Arkansas,At-large,warren,0.1001,0
+Arkansas,At-large,yang,0.0032,0
+American Samoa,At-large,biden,0.0883,0
+American Samoa,At-large,bloomberg,0.4986,4
+American Samoa,At-large,buttigieg,0.0001,0
+American Samoa,At-large,klobuchar,0.0001,0
+American Samoa,At-large,sanders,0.1054,0
+American Samoa,At-large,steyer,0.0001,0
+American Samoa,At-large,warren,0.0142,0
+American Samoa,At-large,yang,0.0001,0
+American Samoa,At-large,gabbard,0.2934,2
+California,At-large,biden,0.2657,169
+California,At-large,bloomberg,0.1336,16
+California,At-large,buttigieg,0.054,0
+California,At-large,klobuchar,0.0273,0
+California,At-large,sanders,0.3391,221
+California,At-large,steyer,0.0234,0
+California,At-large,warren,0.1303,9
+California,At-large,yang,0.0087,0
+Colorado,At-large,biden,0.2356,17
+Colorado,At-large,bloomberg,0.2052,14
+Colorado,At-large,buttigieg,0.0001,0
+Colorado,At-large,klobuchar,0.0001,0
+Colorado,At-large,sanders,0.3613,23
+Colorado,At-large,steyer,0.0041,0
+Colorado,At-large,warren,0.1728,13
+Colorado,At-large,yang,0.0045,0
+Maine,At-large,biden,0.3415,10
+Maine,At-large,bloomberg,0.1204,0
+Maine,At-large,buttigieg,0.0208,0
+Maine,At-large,klobuchar,0.0136,0
+Maine,At-large,sanders,0.3289,9
+Maine,At-large,steyer,0.0015,0
+Maine,At-large,warren,0.1574,5
+Maine,At-large,yang,0.0034,0
+Massachusetts,At-large,biden,0.3366,34
+Massachusetts,At-large,bloomberg,0.1177,0
+Massachusetts,At-large,buttigieg,0.0266,0
+Massachusetts,At-large,klobuchar,0.0121,0
+Massachusetts,At-large,sanders,0.267,31
+Massachusetts,At-large,steyer,0.0048,0
+Massachusetts,At-large,warren,0.2144,26
+Massachusetts,At-large,yang,0.0019,0
+Minnesota,At-large,biden,0.3864,38
+Minnesota,At-large,bloomberg,0.0832,0
+Minnesota,At-large,buttigieg,0.0102,0
+Minnesota,At-large,klobuchar,0.0558,0
+Minnesota,At-large,sanders,0.2989,27
+Minnesota,At-large,steyer,0.0007,0
+Minnesota,At-large,warren,0.1541,10
+Minnesota,At-large,yang,0.0024,0
+North Carolina,At-large,biden,0.43,67
+North Carolina,At-large,bloomberg,0.1298,3
+North Carolina,At-large,buttigieg,0.0328,0
+North Carolina,At-large,klobuchar,0.0232,0
+North Carolina,At-large,sanders,0.2411,38
+North Carolina,At-large,steyer,0.0081,0
+North Carolina,At-large,warren,0.1048,2
+North Carolina,At-large,yang,0.0023,0
+Oklahoma,At-large,biden,0.3867,21
+Oklahoma,At-large,bloomberg,0.1388,2
+Oklahoma,At-large,buttigieg,0.0168,0
+Oklahoma,At-large,klobuchar,0.0222,0
+Oklahoma,At-large,sanders,0.2544,13
+Oklahoma,At-large,steyer,0.0066,0
+Oklahoma,At-large,warren,0.1339,1
+Oklahoma,At-large,yang,0.0066,0
+Tennessee,At-large,biden,0.4169,33
+Tennessee,At-large,bloomberg,0.1546,10
+Tennessee,At-large,buttigieg,0.0331,0
+Tennessee,At-large,klobuchar,0.0206,0
+Tennessee,At-large,sanders,0.2497,20
+Tennessee,At-large,steyer,0.0039,0
+Tennessee,At-large,warren,0.104,1
+Tennessee,At-large,yang,0.0021,0
+Texas,At-large,biden,0.3448,111
+Texas,At-large,bloomberg,0.1439,10
+Texas,At-large,buttigieg,0.0396,0
+Texas,At-large,klobuchar,0.0207,0
+Texas,At-large,sanders,0.2997,102
+Texas,At-large,steyer,0.0066,0
+Texas,At-large,warren,0.1142,5
+Texas,At-large,yang,0.0032,0
+Utah,At-large,biden,0.1741,6
+Utah,At-large,bloomberg,0.1674,6
+Utah,At-large,buttigieg,0.0977,0
+Utah,At-large,klobuchar,0.0388,0
+Utah,At-large,sanders,0.3461,13
+Utah,At-large,steyer,0.0037,0
+Utah,At-large,warren,0.1555,4
+Utah,At-large,yang,0.0045,0
+Vermont,At-large,biden,0.2199,5
+Vermont,At-large,bloomberg,0.094,0
+Vermont,At-large,buttigieg,0.0235,0
+Vermont,At-large,klobuchar,0.0137,0
+Vermont,At-large,sanders,0.507,11
+Vermont,At-large,steyer,0.0013,0
+Vermont,At-large,warren,0.1256,0
+Vermont,At-large,yang,0.0037,0
+Virginia,At-large,biden,0.5331,67
+Virginia,At-large,bloomberg,0.0967,0
+Virginia,At-large,buttigieg,0.0085,0
+Virginia,At-large,klobuchar,0.0064,0
+Virginia,At-large,sanders,0.2314,31
+Virginia,At-large,steyer,0.0011,0
+Virginia,At-large,warren,0.1077,1
+Virginia,At-large,yang,0.0025,0
+Idaho,At-large,biden,0.4885,11
+Idaho,At-large,bloomberg,0.0239,0
+Idaho,At-large,buttigieg,0.013,0
+Idaho,At-large,klobuchar,0.0071,0
+Idaho,At-large,sanders,0.4252,9
+Idaho,At-large,steyer,0.0011,0
+Idaho,At-large,warren,0.0265,0
+Idaho,At-large,yang,0.0027,0
+Michigan,At-large,biden,0.529,70
+Michigan,At-large,bloomberg,0.0462,0
+Michigan,At-large,buttigieg,0.0141,0
+Michigan,At-large,klobuchar,0.0069,0
+Michigan,At-large,sanders,0.3638,55
+Michigan,At-large,steyer,0.0011,0
+Michigan,At-large,warren,0.0164,0
+Michigan,At-large,yang,0.0015,0
+Mississippi,At-large,biden,0.8108,34
+Mississippi,At-large,bloomberg,0.0246,0
+Mississippi,At-large,buttigieg,0.002,0
+Mississippi,At-large,klobuchar,0.0015,0
+Mississippi,At-large,sanders,0.1482,2
+Mississippi,At-large,steyer,0.0013,0
+Mississippi,At-large,warren,0.0053,0
+Mississippi,At-large,yang,0.0016,0
+Missouri,At-large,biden,0.6014,44
+Missouri,At-large,bloomberg,0.0149,0
+Missouri,At-large,buttigieg,0.005,0
+Missouri,At-large,klobuchar,0.004,0
+Missouri,At-large,sanders,0.3455,24
+Missouri,At-large,steyer,0.0009,0
+Missouri,At-large,warren,0.0122,0
+Missouri,At-large,yang,0.0014,0
+North Dakota,At-large,biden,0.399,6
+North Dakota,At-large,bloomberg,0.0075,0
+North Dakota,At-large,buttigieg,0.0104,0
+North Dakota,At-large,klobuchar,0.0145,0
+North Dakota,At-large,sanders,0.5332,8
+North Dakota,At-large,steyer,0.0001,0
+North Dakota,At-large,warren,0.0265,0
+North Dakota,At-large,yang,0.0023,0
+Washington,At-large,biden,0.3505,47
+Washington,At-large,bloomberg,0.0989,0
+Washington,At-large,buttigieg,0.0519,0
+Washington,At-large,klobuchar,0.0273,0
+Washington,At-large,sanders,0.3365,42
+Washington,At-large,steyer,0.0027,0
+Washington,At-large,warren,0.1116,0
+Washington,At-large,yang,0.0045,0

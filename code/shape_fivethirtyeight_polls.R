@@ -1,120 +1,57 @@
 source("code/library.R")
 # Download polls from FiveThirtyEight
-download.file(url = "https://projects.fivethirtyeight.com/2020-primary-data/primary_polls_2020.csv",
+download.file(url = "https://projects.fivethirtyeight.com/polls-page/president_primary_polls.csv",
               destfile = "data/fivethirtyeight-data/primary_polls_2020.csv")
 
-primary_polls_post_sc <- read_csv("data/fivethirtyeight-data/primary_polls_2020.csv") %>%
-  filter(race == "2020D", population != "a") %>%
-  mutate(start_date = as.Date(startdate, format = "%m/%d/%Y"),
-         end_date = as.Date(enddate, format = "%m/%d/%Y"),
+primary_polls <- read_csv("data/fivethirtyeight-data/primary_polls_2020.csv") %>%
+  dplyr::select(-question_id, -cycle, -pollster_id, -sponsor_ids, -office_type, -fte_grade, -display_name) %>%
+  filter(population != "a") %>%
+  mutate(start_date = as.Date(start_date, format = "%m/%d/%y"),
+         end_date = as.Date(end_date, format = "%m/%d/%y"),
          spread = as.numeric(end_date - start_date) + 1,
          median_date = start_date + round(spread/2),
          age = as.numeric(today() - median_date),
          pop = toupper(population),
-         loess_weight = ifelse(median_date >= as.Date("2020-02-24"), 16, 1) * 10 * samplesize^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
-         weight = case_when(state == "National" ~ loess_weight * (age <= 45) / exp(age^0.8),
-                            state != "National" ~ loess_weight / exp(age^(0.8))),
+         loess_weight = ifelse(median_date >= as.Date ("2020-03-01"), 2, 1) * ifelse(median_date >= as.Date("2020-03-04"), 8, 1) * 
+           ifelse(internal, 1/4, 1) * sample_size^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * 
+                                                                 ifelse(spread == 1, 5, 1)),
+         weight = case_when(state %in% c("National", "") ~ loess_weight * (age <= 45) / exp((age + 1)^0.5),
+                            !(state %in% c("National", "")) ~ loess_weight / exp((age + 1)^0.5)),
          candidate = case_when(grepl("Bennet", candidate_name) ~ "bennet",
                                grepl("Biden", candidate_name) ~ "biden",
                                grepl("Bloomberg", candidate_name) ~ "bloomberg",
                                grepl("Booker", candidate_name) ~ "booker",
+                               grepl("Bullock", candidate_name) ~ "bullock",
                                grepl("Buttigieg", candidate_name) ~ "buttigieg",
+                               grepl("Castro", candidate_name) ~ "castro",
+                               grepl("De Blasio", candidate_name) ~ "deblasio",
                                grepl("Delaney", candidate_name) ~ "delaney",
+                               grepl("Harris", candidate_name) ~ "harris",
+                               grepl("Hickenlooper", candidate_name) ~ "hickenlooper",
                                grepl("Gabbard", candidate_name) ~ "gabbard",
                                grepl("Klobuchar", candidate_name) ~ "klobuchar",
+                               grepl("O'Rourke", candidate_name) ~ "orourke",
                                grepl("Patrick", candidate_name) ~ "patrick",
                                grepl("Sanders", candidate_name) ~ "sanders",
                                grepl("Steyer", candidate_name) ~ "steyer",
+                               grepl("Swalwell", candidate_name) ~ "swalwell",
                                grepl("Warren", candidate_name) ~ "warren",
+                               grepl("Williamson", candidate_name) ~ "williamson",
                                grepl("Yang", candidate_name) ~ "yang"),
-         pct = pct / 100) %>%
+         pct = pct / 100,
+         state = case_when(is.na(state) ~ "National",
+                           !is.na(state) ~ state)) %>%
+  filter(!is.na(candidate)) %>%
   arrange(age, pollster, candidate_name) %>%
-  dplyr::select(state, pollster, median_date, age, spread, n = samplesize, pop, loess_weight, weight, candidate, pct) %>%
+  dplyr::select(state, poll_id, pollster, median_date, age, spread, n = sample_size, pop, loess_weight, weight, candidate, pct) %>%
+  distinct(poll_id, candidate, .keep_all = TRUE) %>%
   spread(candidate, pct) %>%
-  filter(!is.na(biden), !is.na(sanders), !is.na(warren), n >= 30) %>%
-  melt(id.vars = c("state", "pollster", "median_date", "age", "spread", "n", "pop", "loess_weight", "weight"), 
+  filter(!is.na(biden), !is.na(sanders), !(is.na(warren) & median_date < as.Date("2020-03-04")), n >= 30) %>%
+  melt(id.vars = c("state", "poll_id", "pollster", "median_date", "age", "spread", "n", "pop", "loess_weight", "weight"), 
        variable.name = "candidate", value.name = "pct") %>%
   arrange(state, median_date, pollster, candidate) %>%
-  filter(!candidate %in% c("bennet", "booker", "delaney", "gabbard", "patrick", "harris"),
-         !(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina"))) %>%
+  filter(!(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina")), !is.na(pct)) %>%
   as.tbl()
-
-primary_polls_pre_sc <- read_csv("data/fivethirtyeight-data/primary_polls_2020_pre_sc.csv") %>%
-  filter(race == "2020D", population != "a") %>%
-  mutate(start_date = as.Date(startdate, format = "%m/%d/%Y"),
-         end_date = as.Date(enddate, format = "%m/%d/%Y"),
-         spread = as.numeric(end_date - start_date) + 1,
-         median_date = start_date + round(spread/2),
-         age = as.numeric(today() - median_date),
-         pop = toupper(population),
-         loess_weight = ifelse(median_date >= as.Date("2020-02-29"), 16, 1) * 10 * samplesize^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
-         weight = case_when(state == "National" ~ loess_weight * (age <= 45) / exp(age^0.8),
-                            state != "National" ~ loess_weight / exp(age^(0.8))),
-         candidate = case_when(grepl("Bennet", candidate_name) ~ "bennet",
-                               grepl("Biden", candidate_name) ~ "biden",
-                               grepl("Bloomberg", candidate_name) ~ "bloomberg",
-                               grepl("Booker", candidate_name) ~ "booker",
-                               grepl("Buttigieg", candidate_name) ~ "buttigieg",
-                               grepl("Delaney", candidate_name) ~ "delaney",
-                               grepl("Gabbard", candidate_name) ~ "gabbard",
-                               grepl("Klobuchar", candidate_name) ~ "klobuchar",
-                               grepl("Patrick", candidate_name) ~ "patrick",
-                               grepl("Sanders", candidate_name) ~ "sanders",
-                               grepl("Steyer", candidate_name) ~ "steyer",
-                               grepl("Warren", candidate_name) ~ "warren",
-                               grepl("Yang", candidate_name) ~ "yang"),
-         pct = pct / 100) %>%
-  arrange(age, pollster, candidate_name) %>%
-  dplyr::select(state, pollster, median_date, age, spread, n = samplesize, pop, loess_weight, weight, candidate, pct) %>%
-  spread(candidate, pct) %>%
-  filter(!is.na(biden), !is.na(sanders), !is.na(warren), n >= 30) %>%
-  melt(id.vars = c("state", "pollster", "median_date", "age", "spread", "n", "pop", "loess_weight", "weight"), 
-       variable.name = "candidate", value.name = "pct") %>%
-  arrange(state, median_date, pollster, candidate) %>%
-  filter(!candidate %in% c("bennet", "booker", "delaney", "gabbard", "patrick", "harris"),
-         !(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina"))) %>%
-  as.tbl()
-
-primary_polls_pre_nh <- read_csv("data/fivethirtyeight-data/primary_polls_2020_pre_nh.csv") %>%
-  filter(race == "2020D", population != "a") %>%
-  mutate(start_date = as.Date(startdate, format = "%m/%d/%Y"),
-         end_date = as.Date(enddate, format = "%m/%d/%Y"),
-         spread = as.numeric(end_date - start_date) + 1,
-         median_date = start_date + round(spread/2),
-         age = as.numeric(today() - median_date),
-         pop = toupper(population),
-         loess_weight = ifelse(median_date >= as.Date("2020-02-29"), 16, 1) * 10 * samplesize^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
-         weight = case_when(state == "National" ~ loess_weight * (age <= 45) / exp(age^0.8),
-                            state != "National" ~ loess_weight / exp(age^(0.8))),
-         candidate = case_when(grepl("Bennet", candidate_name) ~ "bennet",
-                               grepl("Biden", candidate_name) ~ "biden",
-                               grepl("Bloomberg", candidate_name) ~ "bloomberg",
-                               grepl("Booker", candidate_name) ~ "booker",
-                               grepl("Buttigieg", candidate_name) ~ "buttigieg",
-                               grepl("Delaney", candidate_name) ~ "delaney",
-                               grepl("Gabbard", candidate_name) ~ "gabbard",
-                               grepl("Klobuchar", candidate_name) ~ "klobuchar",
-                               grepl("Patrick", candidate_name) ~ "patrick",
-                               grepl("Sanders", candidate_name) ~ "sanders",
-                               grepl("Steyer", candidate_name) ~ "steyer",
-                               grepl("Warren", candidate_name) ~ "warren",
-                               grepl("Yang", candidate_name) ~ "yang"),
-         pct = pct / 100) %>%
-  arrange(age, pollster, candidate_name) %>%
-  dplyr::select(state, pollster, median_date, age, spread, n = samplesize, pop, loess_weight, weight, candidate, pct) %>%
-  spread(candidate, pct) %>%
-  filter(!is.na(biden), !is.na(sanders), !is.na(warren), n >= 30) %>%
-  melt(id.vars = c("state", "pollster", "median_date", "age", "spread", "n", "pop", "loess_weight", "weight"), 
-       variable.name = "candidate", value.name = "pct") %>%
-  arrange(state, median_date, pollster, candidate) %>%
-  filter(!candidate %in% c("bennet", "booker", "delaney", "gabbard", "patrick", "harris"),
-         !(candidate == "bloomberg" & state %in% c("Iowa", "New Hampshire", "Nevada", "South Carolina"))) %>%
-  as.tbl()
-
-primary_polls <- bind_rows(primary_polls_pre_nh, primary_polls_pre_sc, primary_polls_post_sc) %>%
-  distinct(pollster, state, median_date, spread, candidate, .keep_all = TRUE) %>%
-  mutate(pct = case_when(is.na(pct) ~ 0,
-                         !is.na(pct) ~ pct))
 
 national_polls <- primary_polls %>%
   filter(state == "National")
@@ -131,7 +68,7 @@ for(i in 1:n_days) {
   polls_df_list[[i]] <- national_polls %>%
     filter(median_date <= dates[i], !is.na(pct)) %>%
     mutate(age = as.numeric(dates[i] - median_date),
-           weight = loess_weight*(age <= 45)/exp(age^0.4)) %>%
+           weight = loess_weight*(age <= 45)/exp((age + 1)^0.5)) %>%
     dplyr::select(-age, -spread, -n) %>%
     filter(weight > 0)
   
@@ -193,7 +130,11 @@ house_effects <- house_effect_ranefs %>%
 
 national_polls_adjusted <- national_polls %>%
   left_join(house_effects, by = c("pollster", "candidate")) %>%
-  mutate(pct = pct - house)
+  mutate(pct = pct - house) %>%
+  group_by(poll_id) %>%
+  mutate(pct = case_when(sum(pct) <= 1 ~ pct,
+                       sum(pct) > 1 ~ pct / sum(pct))) %>%
+  ungroup()
 
 # Recalculate national averages with house effect adjustments
 start_date <- as.Date("2019-03-01")
@@ -207,7 +148,7 @@ for(i in 1:n_days) {
   polls_df_list[[i]] <- national_polls_adjusted %>%
     filter(median_date <= dates[i], !is.na(pct)) %>%
     mutate(age = as.numeric(dates[i] - median_date),
-           weight = loess_weight*(age <= 45)/exp(age^0.4)) %>%
+           weight = loess_weight*(age <= 45)/exp((age + 1)^0.5)) %>%
     dplyr::select(-age, -spread, -n) %>%
     filter(weight > 0)
   
@@ -239,6 +180,16 @@ for(i in 1:nrow(averages)) {
   alphas[i] <- beta_estimates["alpha"]
   betas[i] <- beta_estimates["beta"]
 }
+
+national_averages_adjusted_unsmoothed <- averages %>%
+  mutate(alpha = alphas,
+         beta = betas) %>%
+  group_by(candidate) %>%
+  mutate(pct = 100 * pct,
+         lower = 100 * qbeta(p = 0.05, shape1 = alpha, shape2 = beta),
+         upper = 100 * qbeta(p = 0.95, shape1 = alpha, shape2 = beta)) %>%
+  ungroup() %>%
+  dplyr::select(candidate, median_date, pct, var, eff_n, lower, upper, alpha, beta)
 
 national_averages_adjusted <- averages %>%
   mutate(alpha = alphas,
@@ -277,11 +228,13 @@ national_average <- national_average %>%
 # State polls + national trend line adjustment
 state_polls <- primary_polls %>%
   filter(state != "National") %>%
+  mutate(median_date = median_date + 2) %>%
   left_join(national_averages_adjusted %>% dplyr::select(candidate, median_date, natl_pct = pct), by = c("candidate", "median_date")) %>%
   left_join(house_effects, by = c("pollster", "candidate")) %>%
   mutate(house = case_when(is.na(house) ~ 0,
                            !is.na(house) ~ house),
-         pct_adjusted = 100*(pct - house))
+         pct_adjusted = 100*(pct - house)) %>%
+  mutate(median_date = median_date - 2)
 
 state_leans <- state_polls %>%
   mutate(state_lean = pct_adjusted - natl_pct) %>%

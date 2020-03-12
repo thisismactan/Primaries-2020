@@ -1,4 +1,4 @@
-﻿date,state,contest_type,pledged,unpledged
+date,state,contest_type,pledged,unpledged
 2020-02-03,Iowa,Caucus,41,8
 2020-02-11,New Hampshire,Primary,24,9
 2020-02-22,Nevada,Caucus,36,12
@@ -6,9 +6,9 @@
 2020-03-03,Alabama,Primary,52,9
 2020-03-03,American Samoa,Caucus,6,5
 2020-03-03,Arkansas,Primary,31,5
-2020-03-03,California,Primary,416,79
+2020-03-03,California,Primary,415,79
 2020-03-03,Colorado,Primary,67,13
-2020-03-03,Democrats Abroad,Primary,13,4
+2020-03-03,Maine,Primary,24,8
 2020-03-03,Massachusetts,Primary,91,23
 2020-03-03,Minnesota,Primary,75,17
 2020-03-03,North Carolina,Primary,110,12
@@ -18,17 +18,17 @@
 2020-03-03,Utah,Primary,29,6
 2020-03-03,Vermont,Primary,16,7
 2020-03-03,Virginia,Primary,99,25
-2020-03-08,Maine,Primary,24,8
+2020-03-10,Democrats Abroad,Primary,13,4
 2020-03-10,Idaho,Primary,20,5
 2020-03-10,Michigan,Primary,125,22
 2020-03-10,Mississippi,Primary,36,5
 2020-03-10,Missouri,Primary,68,10
 2020-03-10,North Dakota,Caucus,14,4
-2020-03-10,Ohio,Primary,136,17
 2020-03-10,Washington,Primary,89,18
 2020-03-14,Northern Marianas,Primary,6,5
 2020-03-17,Arizona,Primary,67,11
 2020-03-17,Florida,Primary,219,29
+2020-03-17,Ohio,Primary,136,17
 2020-03-17,Illinois,Primary,155,29
 2020-03-24,Georgia,Primary,105,15
 2020-03-29,Puerto Rico,Primary,51,8

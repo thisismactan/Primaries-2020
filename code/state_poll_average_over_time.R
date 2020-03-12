@@ -14,7 +14,7 @@ for(i in 1:n_days) {
   polls_df_list[[i]] <- state_poll_leans %>%
     filter(median_date <= dates[i]) %>%
     mutate(age = as.numeric(dates[i] - median_date),
-           weight = loess_weight / exp(age^(0.4))) %>%
+           weight = loess_weight / exp((age + 1)^0.5)) %>%
     dplyr::select(-age, -spread, -n, -pop) %>%
     filter(weight > 0) 
   
@@ -39,7 +39,8 @@ state_averages_over_time_unsmoothed <- bind_rows(poll_average_list) %>%
   left_join(bind_rows(poll_var_list), by = c("state", "candidate", "median_date")) %>%
   left_join(bind_rows(poll_eff_n_list), by = c("state", "candidate", "median_date")) %>%
   arrange(state, candidate, median_date) %>%
-  left_join(national_averages_adjusted %>% dplyr::select(candidate, median_date, natl_pct = pct, natl_var = var, natl_eff_n = eff_n), 
+  left_join(national_averages_adjusted %>%
+              dplyr::select(candidate, median_date, natl_pct = pct, natl_var = var, natl_eff_n = eff_n), 
             by = c("candidate", "median_date")) %>%
   mutate(pct = pmax(0.001, lean + natl_pct / 100),
          var = state_var / state_eff_n + natl_var / natl_eff_n) %>%

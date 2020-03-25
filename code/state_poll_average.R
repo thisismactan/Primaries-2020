@@ -13,7 +13,7 @@ contest_date <- state_primary_schedule %>%
 
 ## Column plot
 state_averages %>%
-  filter(state == state_name, candidate %in% c("biden", "sanders")) %>%
+  filter(state %in% state_name, candidate %in% c("biden", "sanders")) %>%
   ggplot(aes(x = candidate, fill = candidate)) +
   geom_col(aes(y = state_avg)) +
   geom_errorbar(aes(ymin = lower, ymax = upper), col = "#555555") +

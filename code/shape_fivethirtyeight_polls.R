@@ -12,9 +12,9 @@ primary_polls <- read_csv("data/fivethirtyeight-data/primary_polls_2020.csv") %>
          median_date = start_date + round(spread/2),
          age = as.numeric(today() - median_date),
          pop = toupper(population),
-         loess_weight = ifelse(median_date >= as.Date ("2020-03-01"), 2, 1) * ifelse(median_date >= as.Date("2020-03-04"), 8, 1) * 
-           ifelse(internal, 1/4, 1) * sample_size^0.25 / (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * 
-                                                                 ifelse(spread == 1, 5, 1)),
+         loess_weight = ifelse(median_date >= as.Date ("2020-03-01"), 2, 1) * ifelse(median_date >= as.Date("2020-03-05"), 8, 1) * 
+           ifelse(median_date >= as.Date("2020-03-11"), 4, 1) * ifelse(internal, 1/4, 1) * sample_size^0.25 / 
+           (ifelse(pop == "LV", 1, 3) * sqrt(abs(spread - 4) + 2) * ifelse(spread == 1, 5, 1)),
          weight = case_when(state %in% c("National", "") ~ loess_weight * (age <= 45) / exp((age + 1)^0.5),
                             !(state %in% c("National", "")) ~ loess_weight / exp((age + 1)^0.5)),
          candidate = case_when(grepl("Bennet", candidate_name) ~ "bennet",

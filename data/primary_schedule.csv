@@ -28,32 +28,32 @@ date,state,contest_type,pledged,unpledged
 2020-03-14,Northern Marianas,Primary,6,5
 2020-03-17,Arizona,Primary,67,11
 2020-03-17,Florida,Primary,219,29
-2020-03-17,Ohio,Primary,136,17
 2020-03-17,Illinois,Primary,155,29
-2020-03-24,Georgia,Primary,105,15
-2020-03-29,Puerto Rico,Primary,51,8
 2020-04-04,Alaska,Primary,15,4
 2020-04-04,Hawaii,Primary,24,9
-2020-04-04,Louisiana,Primary,54,7
 2020-04-04,Wyoming,Caucus,14,4
 2020-04-07,Wisconsin,Primary,84,13
-2020-04-28,Connecticut,Primary,60,15
+2020-04-26,Puerto Rico,Primary,51,8
 2020-04-28,Delaware,Primary,21,11
-2020-04-28,Maryland,Primary,96,23
-2020-04-28,New York,Primary,273,46
+2020-04-28,New York,Primary,274,46
 2020-04-28,Pennsylvania,Primary,186,24
 2020-04-28,Rhode Island,Primary,26,9
 2020-05-02,Guam,Caucus,7,5
 2020-05-02,Kansas,Primary,39,6
-2020-05-05,Indiana,Primary,82,7
 2020-05-12,Nebraska,Primary,29,4
 2020-05-12,West Virginia,Primary,28,6
-2020-05-19,Kentucky,Primary,54,6
+2020-05-19,Georgia,Primary,105,15
 2020-05-19,Oregon,Primary,61,14
+2020-06-02,Connecticut,Primary,60,15
 2020-06-02,District of Columbia,Primary,20,26
+2020-06-02,Indiana,Primary,82,7
+2020-06-02,Maryland,Primary,96,23
 2020-06-02,Montana,Primary,19,6
 2020-06-02,New Jersey,Primary,126,21
 2020-06-02,New Mexico,Primary,34,11
+2020-06-02,Ohio,Primary,136,17
 2020-06-02,South Dakota,Primary,16,5
 2020-06-06,Virgin Islands,Caucus,7,6
+2020-06-20,Louisiana,Primary,54,7
+2020-06-23,Kentucky,Primary,54,6
 ,Unassigned,,0,1
